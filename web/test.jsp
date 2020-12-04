@@ -12,6 +12,6 @@
   </head>
   <body>
     <p>test</p>
-	<p>test2_merge</p>
+	<p>test2_master2</p>
   </body>
 </html>
