@@ -12,6 +12,6 @@
   </head>
   <body>
     <p>test</p>
-	<p>test2_merge</p>
+	<p>test2_commit_dev</p>
   </body>
 </html>
